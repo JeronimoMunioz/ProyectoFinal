@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "PlayStation 5",
+        "precio": 70000,
+        "imagen": "../Media/Play5.png",
+        "codigo": 1.1
+    },
+    {
+        "nombre": "Xbox One ",
+        "precio": 60000,
+        "imagen": "Media/xbox.png",
+        "codigo": 1.2
+    },
+    {
+        "nombre": "Nintendo Switch",
+        "precio": 30000,
+        "imagen": "Media/nintendo.png",
+        "codigo": 1.3
+    },
+    {
+        "nombre": "PC Gamer Ryzen 7 ",
+        "precio": 130000,
+        "imagen": "Media/PcGamer1.png",
+        "codigo": 1.4
+    },
+    {
+        "nombre": "PC Gamer I5",
+        "precio": 85000,
+        "imagen": "Media/PcGamer2.png",
+        "codigo": 1.5
+    },
+    {
+        "nombre": "PC Gamer gama media",
+        "precio": 58000,
+        "imagen": "Media/PcGamer3.png",
+        "codigo": 1.6
+    },
+    {
+        "nombre": "FIFA 22",
+        "precio": 10000,
+        "imagen": "Media/fifa22.png",
+        "codigo": 2.1
+    },
+    {
+        "nombre": "Marvel's Guardians of the Galaxy",
+        "precio": 10000,
+        "imagen": "Media/Marvel.png",
+        "codigo": 2.2
+    },
+    {
+        "nombre": "Brawlhalla",
+        "precio": 10000,
+        "imagen": "Media/Brawlhalla.png",
+        "codigo": 2.3
+    },
+    {
+        "nombre": "Fall Guys",
+        "precio": 7000,
+        "imagen": "Media/FallGuys.png",
+        "codigo": 2.4
+    },
+    {
+        "nombre": "Battlefield 2042",
+        "precio": 16000,
+        "imagen": "Media/Battlefield.png",
+        "codigo": 2.5
+    },
+    {
+        "nombre": "Horizon Zero Dawn",
+        "precio": 12000,
+        "imagen": "Media/Horizon.png",
+        "codigo": 2.6
+    }
+]
